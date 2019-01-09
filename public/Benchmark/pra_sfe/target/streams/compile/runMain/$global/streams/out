@@ -1,0 +1,1223 @@
+[0m[[0minfo[0m] [0mRunning edu.cmu.ml.rtw.pra.experiments.ExperimentRunner ../data/dbpedia/ sfe.json[0m
+[0m[[0minfo[0m] [0mFound 8 experiment specs, and kept 1 of them[0m
+[0m[[0minfo[0m] [0mRunning PRA from spec file ../data/dbpedia/experiment_specs/sfe.json[0m
+[0m[[0minfo[0m] [0m09:07:11.304 [main] INFO edu.cmu.ml.rtw.pra.experiments.Driver - Running pipeline for step: Driver[0m
+[0m[[0minfo[0m] [0m09:07:11.308 [main] INFO edu.cmu.ml.rtw.pra.experiments.Driver - Required file ../data/dbpedia/graphs/ already exists, checking parameters[0m
+[0m[[0minfo[0m] [0m09:07:11.309 [main] INFO edu.cmu.ml.rtw.pra.experiments.Driver - All prerequisites should now be present.  Running step: Driver[0m
+[0m[[0minfo[0m] [0mLoading node dictionary[0m
+[0m[[0minfo[0m] [0mLoading edge dictionary[0m
+[0m[[0minfo[0m] [0m09:07:21.203 [main] INFO com.mattg.util.FileUtil - 10[0m
+[0m[[0minfo[0m] [0m09:07:21.204 [main] INFO com.mattg.util.FileUtil - 20[0m
+[0m[[0minfo[0m] [0m09:07:21.205 [main] INFO com.mattg.util.FileUtil - 30[0m
+[0m[[0minfo[0m] [0m09:07:21.207 [main] INFO com.mattg.util.FileUtil - 40[0m
+[0m[[0minfo[0m] [0m09:07:21.207 [main] INFO com.mattg.util.FileUtil - 50[0m
+[0m[[0minfo[0m] [0m09:07:21.209 [main] INFO com.mattg.util.FileUtil - 60[0m
+[0m[[0minfo[0m] [0m09:07:21.209 [main] INFO com.mattg.util.FileUtil - 70[0m
+[0m[[0minfo[0m] [0m09:07:21.210 [main] INFO com.mattg.util.FileUtil - 80[0m
+[0m[[0minfo[0m] [0m09:07:21.210 [main] INFO com.mattg.util.FileUtil - 90[0m
+[0m[[0minfo[0m] [0m09:07:21.211 [main] INFO com.mattg.util.FileUtil - 100[0m
+[0m[[0minfo[0m] [0m09:07:21.211 [main] INFO com.mattg.util.FileUtil - 110[0m
+[0m[[0minfo[0m] [0m09:07:21.213 [main] INFO com.mattg.util.FileUtil - 120[0m
+[0m[[0minfo[0m] [0m09:07:21.213 [main] INFO com.mattg.util.FileUtil - 130[0m
+[0m[[0minfo[0m] [0m09:07:21.214 [main] INFO com.mattg.util.FileUtil - 140[0m
+[0m[[0minfo[0m] [0m09:07:21.214 [main] INFO com.mattg.util.FileUtil - 150[0m
+[0m[[0minfo[0m] [0m09:07:21.215 [main] INFO com.mattg.util.FileUtil - 160[0m
+[0m[[0minfo[0m] [0m09:07:21.215 [main] INFO com.mattg.util.FileUtil - 170[0m
+[0m[[0minfo[0m] [0m09:07:21.216 [main] INFO com.mattg.util.FileUtil - 180[0m
+[0m[[0minfo[0m] [0m09:07:21.219 [main] INFO com.mattg.util.FileUtil - 190[0m
+[0m[[0minfo[0m] [0m09:07:21.220 [main] INFO com.mattg.util.FileUtil - 200[0m
+[0m[[0minfo[0m] [0m09:07:21.221 [main] INFO com.mattg.util.FileUtil - 210[0m
+[0m[[0minfo[0m] [0m09:07:21.221 [main] INFO com.mattg.util.FileUtil - 220[0m
+[0m[[0minfo[0m] [0m09:07:21.222 [main] INFO com.mattg.util.FileUtil - 230[0m
+[0m[[0minfo[0m] [0m09:07:21.224 [main] INFO com.mattg.util.FileUtil - 240[0m
+[0m[[0minfo[0m] [0m09:07:21.225 [main] INFO com.mattg.util.FileUtil - 250[0m
+[0m[[0minfo[0m] [0m09:07:21.226 [main] INFO com.mattg.util.FileUtil - 260[0m
+[0m[[0minfo[0m] [0m09:07:21.227 [main] INFO com.mattg.util.FileUtil - 270[0m
+[0m[[0minfo[0m] [0m09:07:21.227 [main] INFO com.mattg.util.FileUtil - 280[0m
+[0m[[0minfo[0m] [0m09:07:21.228 [main] INFO com.mattg.util.FileUtil - 290[0m
+[0m[[0minfo[0m] [0m09:07:21.229 [main] INFO com.mattg.util.FileUtil - 300[0m
+[0m[[0minfo[0m] [0m(51467,449712,-1)[0m
+[0m[[0minfo[0m] [0m(84390,180349,110)[0m
+[0m[[0minfo[0m] [0m(803856,2341402,-1)[0m
+[0m[[0minfo[0m] [0m(413773,157208,110)[0m
+[0m[[0minfo[0m] [0m(512546,159996,110)[0m
+[0m[[0minfo[0m] [0m(512546,510667,-1)[0m
+[0m[[0minfo[0m] [0m(227103,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(36931,510667,-1)[0m
+[0m[[0minfo[0m] [0m(84390,888736,-1)[0m
+[0m[[0minfo[0m] [0m(413773,314824,-1)[0m
+[0m[[0minfo[0m] [0m(56114,56107,110)[0m
+[0m[[0minfo[0m] [0m(1664468,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(112551,319386,-1)[0m
+[0m[[0minfo[0m] [0m(233588,366117,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,678506,110)[0m
+[0m[[0minfo[0m] [0m(51467,56107,-1)[0m
+[0m[[0minfo[0m] [0m(339015,56107,-1)[0m
+[0m[[0minfo[0m] [0m(644329,69581,-1)[0m
+[0m[[0minfo[0m] [0m(154469,57328,-1)[0m
+[0m[[0minfo[0m] [0m(644329,1069932,110)[0m
+[0m[[0minfo[0m] [0m(112551,929506,-1)[0m
+[0m[[0minfo[0m] [0m(84262,159996,-1)[0m
+[0m[[0minfo[0m] [0m(154469,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(194257,888736,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(478474,390141,-1)[0m
+[0m[[0minfo[0m] [0m(478474,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(366117,205388,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,205388,-1)[0m
+[0m[[0minfo[0m] [0m(51467,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(1409555,56111,-1)[0m
+[0m[[0minfo[0m] [0m(77519,343589,-1)[0m
+[0m[[0minfo[0m] [0m(491168,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(426793,541278,110)[0m
+[0m[[0minfo[0m] [0m(426793,534474,-1)[0m
+[0m[[0minfo[0m] [0m(69094,498869,110)[0m
+[0m[[0minfo[0m] [0m(413773,192079,-1)[0m
+[0m[[0minfo[0m] [0m(478474,192059,-1)[0m
+[0m[[0minfo[0m] [0m(269723,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(56114,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(366117,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(582330,343589,110)[0m
+[0m[[0minfo[0m] [0m(154469,239331,-1)[0m
+[0m[[0minfo[0m] [0m(69094,180349,-1)[0m
+[0m[[0minfo[0m] [0m(345304,534474,-1)[0m
+[0m[[0minfo[0m] [0m(126531,888736,-1)[0m
+[0m[[0minfo[0m] [0m(512546,305418,-1)[0m
+[0m[[0minfo[0m] [0m(504225,210323,110)[0m
+[0m[[0minfo[0m] [0m(109888,888736,-1)[0m
+[0m[[0minfo[0m] [0m(154469,1625700,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,966619,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,164969,-1)[0m
+[0m[[0minfo[0m] [0m(639004,449712,-1)[0m
+[0m[[0minfo[0m] [0m(339015,192059,-1)[0m
+[0m[[0minfo[0m] [0m(644329,96668,-1)[0m
+[0m[[0minfo[0m] [0m(426793,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,1625700,110)[0m
+[0m[[0minfo[0m] [0m(1409555,1664528,-1)[0m
+[0m[[0minfo[0m] [0m(36931,3122085,110)[0m
+[0m[[0minfo[0m] [0m(84390,390141,-1)[0m
+[0m[[0minfo[0m] [0m(56107,888736,-1)[0m
+[0m[[0minfo[0m] [0m(888735,888736,110)[0m
+[0m[[0minfo[0m] [0m(233588,449712,-1)[0m
+[0m[[0minfo[0m] [0m(339015,96668,110)[0m
+[0m[[0minfo[0m] [0m(512546,489407,-1)[0m
+[0m[[0minfo[0m] [0m(242674,35950,110)[0m
+[0m[[0minfo[0m] [0m(504225,57328,-1)[0m
+[0m[[0minfo[0m] [0m(803856,193008,110)[0m
+[0m[[0minfo[0m] [0m(413773,193008,-1)[0m
+[0m[[0minfo[0m] [0m(194257,69581,-1)[0m
+[0m[[0minfo[0m] [0m(36931,366117,-1)[0m
+[0m[[0minfo[0m] [0m(328527,210323,-1)[0m
+[0m[[0minfo[0m] [0m(366117,390141,110)[0m
+[0m[[0minfo[0m] [0m(22317,239331,-1)[0m
+[0m[[0minfo[0m] [0m(418986,418988,110)[0m
+[0m[[0minfo[0m] [0m(227103,314824,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,2341402,110)[0m
+[0m[[0minfo[0m] [0m(109888,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(486618,510667,110)[0m
+[0m[[0minfo[0m] [0m(2036788,193008,-1)[0m
+[0m[[0minfo[0m] [0m(582330,966619,-1)[0m
+[0m[[0minfo[0m] [0m(56107,192079,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,929506,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,489407,110)[0m
+[0m[[0minfo[0m] [0m(418986,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(194257,319386,110)[0m
+[0m[[0minfo[0m] [0m(582330,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(242674,212364,-1)[0m
+[0m[[0minfo[0m] [0m(84262,202412,-1)[0m
+[0m[[0minfo[0m] [0m(644329,21931,-1)[0m
+[0m[[0minfo[0m] [0m(582330,776084,-1)[0m
+[0m[[0minfo[0m] [0m(719807,192059,-1)[0m
+[0m[[0minfo[0m] [0m(562500,929506,-1)[0m
+[0m[[0minfo[0m] [0m(428697,202412,-1)[0m
+[0m[[0minfo[0m] [0m(77519,21931,-1)[0m
+[0m[[0minfo[0m] [0m(217504,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(22317,418988,-1)[0m
+[0m[[0minfo[0m] [0m(639004,35950,-1)[0m
+[0m[[0minfo[0m] [0m(324215,929506,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,69581,-1)[0m
+[0m[[0minfo[0m] [0m(112551,534474,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,418988,-1)[0m
+[0m[[0minfo[0m] [0m(22317,498869,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,180349,-1)[0m
+[0m[[0minfo[0m] [0m(803856,966619,-1)[0m
+[0m[[0minfo[0m] [0m(69094,164969,-1)[0m
+[0m[[0minfo[0m] [0m(56107,56111,110)[0m
+[0m[[0minfo[0m] [0m(512546,157208,-1)[0m
+[0m[[0minfo[0m] [0m(486618,305418,-1)[0m
+[0m[[0minfo[0m] [0m(77519,498869,-1)[0m
+[0m[[0minfo[0m] [0m(328527,296771,-1)[0m
+[0m[[0minfo[0m] [0m(2036788,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(112551,2338074,110)[0m
+[0m[[0minfo[0m] [0m(562500,418988,-1)[0m
+[0m[[0minfo[0m] [0m(339015,2341402,-1)[0m
+[0m[[0minfo[0m] [0m(304835,122479,-1)[0m
+[0m[[0minfo[0m] [0m(69094,390141,-1)[0m
+[0m[[0minfo[0m] [0m(194257,205388,-1)[0m
+[0m[[0minfo[0m] [0m(562500,35950,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,319386,-1)[0m
+[0m[[0minfo[0m] [0m(227103,205388,-1)[0m
+[0m[[0minfo[0m] [0m(428697,428700,110)[0m
+[0m[[0minfo[0m] [0m(324215,180349,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,210323,-1)[0m
+[0m[[0minfo[0m] [0m(324215,418988,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,180349,-1)[0m
+[0m[[0minfo[0m] [0m(504224,305418,-1)[0m
+[0m[[0minfo[0m] [0m(242674,159996,-1)[0m
+[0m[[0minfo[0m] [0m(639004,21931,-1)[0m
+[0m[[0minfo[0m] [0m(109888,57328,110)[0m
+[0m[[0minfo[0m] [0m(56107,193008,-1)[0m
+[0m[[0minfo[0m] [0m(84262,449712,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,305418,-1)[0m
+[0m[[0minfo[0m] [0m(582330,489407,-1)[0m
+[0m[[0minfo[0m] [0m(233588,21931,-1)[0m
+[0m[[0minfo[0m] [0m(504225,541278,-1)[0m
+[0m[[0minfo[0m] [0m(269723,192059,-1)[0m
+[0m[[0minfo[0m] [0m(1076171,678506,-1)[0m
+[0m[[0minfo[0m] [0m(22317,366117,110)[0m
+[0m[[0minfo[0m] [0m(486618,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(719807,305418,110)[0m
+[0m[[0minfo[0m] [0m(242674,489407,-1)[0m
+[0m[[0minfo[0m] [0m(56114,69581,-1)[0m
+[0m[[0minfo[0m] [0m(269723,122479,110)[0m
+[0m[[0minfo[0m] [0m(56107,2341402,-1)[0m
+[0m[[0minfo[0m] [0m(504225,390141,-1)[0m
+[0m[[0minfo[0m] [0m(51467,305418,-1)[0m
+[0m[[0minfo[0m] [0m(418986,305418,-1)[0m
+[0m[[0minfo[0m] [0m(233588,498869,-1)[0m
+[0m[[0minfo[0m] [0m(324215,69581,110)[0m
+[0m[[0minfo[0m] [0m(1664468,202412,-1)[0m
+[0m[[0minfo[0m] [0m(888735,426745,-1)[0m
+[0m[[0minfo[0m] [0m(304835,193008,-1)[0m
+[0m[[0minfo[0m] [0m(56107,192059,-1)[0m
+[0m[[0minfo[0m] [0m(491168,180349,-1)[0m
+[0m[[0minfo[0m] [0m(84262,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(328527,1321229,110)[0m
+[0m[[0minfo[0m] [0m(719807,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(345304,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(69094,426745,-1)[0m
+[0m[[0minfo[0m] [0m(1409555,157208,-1)[0m
+[0m[[0minfo[0m] [0m(2036788,35950,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,888736,-1)[0m
+[0m[[0minfo[0m] [0m(888735,343589,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,314824,-1)[0m
+[0m[[0minfo[0m] [0m(562500,192059,-1)[0m
+[0m[[0minfo[0m] [0m(719807,1664528,-1)[0m
+[0m[[0minfo[0m] [0m(803856,390141,-1)[0m
+[0m[[0minfo[0m] [0m(491168,56107,-1)[0m
+[0m[[0minfo[0m] [0m(109888,366117,-1)[0m
+[0m[[0minfo[0m] [0m(194257,2338074,-1)[0m
+[0m[[0minfo[0m] [0m(22317,205388,-1)[0m
+[0m[[0minfo[0m] [0m(69094,212364,-1)[0m
+[0m[[0minfo[0m] [0m(478474,56111,-1)[0m
+[0m[[0minfo[0m] [0m(2036788,418988,-1)[0m
+[0m[[0minfo[0m] [0m(84262,21931,110)[0m
+[0m[[0minfo[0m] [0m(1409555,449712,-1)[0m
+[0m[[0minfo[0m] [0m(77519,449712,110)[0m
+[0m[[0minfo[0m] [0m(719807,202412,-1)[0m
+[0m[[0minfo[0m] [0m(428697,56111,-1)[0m
+[0m[[0minfo[0m] [0m(2036788,212364,110)[0m
+[0m[[0minfo[0m] [0m(345304,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(366117,418988,-1)[0m
+[0m[[0minfo[0m] [0m(36931,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(1664468,192079,-1)[0m
+[0m[[0minfo[0m] [0m(126531,541278,-1)[0m
+[0m[[0minfo[0m] [0m(217504,776084,-1)[0m
+[0m[[0minfo[0m] [0m(1409555,426745,-1)[0m
+[0m[[0minfo[0m] [0m(639004,426745,110)[0m
+[0m[[0minfo[0m] [0m(413773,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(51467,541278,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(803856,319386,-1)[0m
+[0m[[0minfo[0m] [0m(504224,192059,110)[0m
+[0m[[0minfo[0m] [0m(217504,164969,-1)[0m
+[0m[[0minfo[0m] [0m(304835,239331,-1)[0m
+[0m[[0minfo[0m] [0m(486618,426745,-1)[0m
+[0m[[0minfo[0m] [0m(491168,1501836,110)[0m
+[0m[[0minfo[0m] [0m(51467,164969,110)[0m
+[0m[[0minfo[0m] [0m(269723,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(888735,305418,-1)[0m
+[0m[[0minfo[0m] [0m(84390,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(109888,343589,-1)[0m
+[0m[[0minfo[0m] [0m(36931,498869,-1)[0m
+[0m[[0minfo[0m] [0m(418986,122479,-1)[0m
+[0m[[0minfo[0m] [0m(233588,202412,110)[0m
+[0m[[0minfo[0m] [0m(126531,418988,-1)[0m
+[0m[[0minfo[0m] [0m(1152167,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(84262,1501836,-1)[0m
+[0m[[0minfo[0m] [0m(154469,929506,110)[0m
+[0m[[0minfo[0m] [0m(345304,776084,-1)[0m
+[0m[[0minfo[0m] [0m(428697,1625700,-1)[0m
+[0m[[0minfo[0m] [0m(582330,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(504224,2341402,-1)[0m
+[0m[[0minfo[0m] [0m(242674,426745,-1)[0m
+[0m[[0minfo[0m] [0m(233588,489407,-1)[0m
+[0m[[0minfo[0m] [0m(227103,678506,-1)[0m
+[0m[[0minfo[0m] [0m(217504,534474,110)[0m
+[0m[[0minfo[0m] [0m(304835,343589,-1)[0m
+[0m[[0minfo[0m] [0m(324215,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(426793,449712,-1)[0m
+[0m[[0minfo[0m] [0m(126531,428700,-1)[0m
+[0m[[0minfo[0m] [0m(719807,21931,-1)[0m
+[0m[[0minfo[0m] [0m(56114,678506,-1)[0m
+[0m[[0minfo[0m] [0m(324215,489407,-1)[0m
+[0m[[0minfo[0m] [0m(194257,96668,-1)[0m
+[0m[[0minfo[0m] [0m(418986,343589,-1)[0m
+[0m[[0minfo[0m] [0m(478474,966619,110)[0m
+[0m[[0minfo[0m] [0m(428697,57328,-1)[0m
+[0m[[0minfo[0m] [0m(562500,192079,110)[0m
+[0m[[0minfo[0m] [0m(227103,966619,-1)[0m
+[0m[[0minfo[0m] [0m(84390,678506,-1)[0m
+[0m[[0minfo[0m] [0m(345304,314824,110)[0m
+[0m[[0minfo[0m] [0m(84390,776084,-1)[0m
+[0m[[0minfo[0m] [0m(366117,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(22317,541278,-1)[0m
+[0m[[0minfo[0m] [0m(328527,192079,-1)[0m
+[0m[[0minfo[0m] [0m(1409555,776084,110)[0m
+[0m[[0minfo[0m] [0m(413773,498869,-1)[0m
+[0m[[0minfo[0m] [0m(217504,929506,-1)[0m
+[0m[[0minfo[0m] [0m(112551,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(304835,2341402,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,534474,-1)[0m
+[0m[[0minfo[0m] [0m(36931,534474,-1)[0m
+[0m[[0minfo[0m] [0m(644329,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(227103,1740903,110)[0m
+[0m[[0minfo[0m] [0m(418986,56111,-1)[0m
+[0m[[0minfo[0m] [0m(345304,164969,-1)[0m
+[0m[[0minfo[0m] [0m(512546,56107,-1)[0m
+[0m[[0minfo[0m] [0m(56114,498869,-1)[0m
+[0m[[0minfo[0m] [0m(304835,296771,110)[0m
+[0m[[0minfo[0m] [0m(269723,35950,-1)[0m
+[0m[[0minfo[0m] [0m(366117,366117,-1)[0m
+[0m[[0minfo[0m] [0m(504224,366117,-1)[0m
+[0m[[0minfo[0m] [0m(504225,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(491168,212364,-1)[0m
+[0m[[0minfo[0m] [0m(639004,314824,-1)[0m
+[0m[[0minfo[0m] [0m(69094,776084,-1)[0m
+[0m[[0minfo[0m] [0m(77519,69581,-1)[0m
+[0m[[0minfo[0m] [0m(69094,192059,-1)[0m
+[0m[[0minfo[0m] [0m(639004,56107,-1)[0m
+[0m[[0minfo[0m] [0m(77519,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(242674,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(69094,57328,-1)[0m
+[0m[[0minfo[0m] [0m(486618,57328,-1)[0m
+[0m[[0minfo[0m] [0m(112551,180349,-1)[0m
+[0m[[0minfo[0m] [0m(486618,21931,-1)[0m
+[0m[[0minfo[0m] [0m(428697,180349,-1)[0m
+[0m[[0minfo[0m] [0m(803856,1740903,-1)[0m
+[0m[[0minfo[0m] [0m(504224,1625700,-1)[0m
+[0m[[0minfo[0m] [0m(478474,205388,-1)[0m
+[0m[[0minfo[0m] [0m(69094,239331,110)[0m
+[0m[[0minfo[0m] [0m(491168,21931,-1)[0m
+[0m[[0minfo[0m] [0m(339015,164969,-1)[0m
+[0m[[0minfo[0m] [0m(1664468,1664528,110)[0m
+[0m[[0minfo[0m] [0m(328527,21931,-1)[0m
+[0m[[0minfo[0m] [0m(109888,449712,-1)[0m
+[0m[[0minfo[0m] [0m(644329,3122085,-1)[0m
+[0m[[0minfo[0m] [0m(426793,1321229,-1)[0m
+[0m[[0minfo[0m] [0m(269723,56111,-1)[0m
+[0m[[0minfo[0m] [0m(888735,296771,-1)[0m
+[0m[[0minfo[0m] [0m(1664468,205388,-1)[0m
+[0m[[0minfo[0m] [0m(339015,1625700,-1)[0m
+[0m[[0minfo[0m] [0m(1664468,159996,-1)[0m
+[0m[[0minfo[0m] [0m(888735,510667,-1)[0m
+[0m[[0minfo[0m] [0m(4331167,1069932,-1)[0m
+[0m[[0minfo[0m] [0m(2036788,180349,-1)[0m
+[0m[[0minfo[0m] [0m(126531,205388,110)[0m
+[0m[[0minfo[0m] [0m(426793,180349,-1)[0m
+[0m[[0minfo[0m] [0m(154469,164969,-1)[0m
+[0m[[0minfo[0m] [0m(504224,35950,-1)[0m
+[0m[[0minfo[0m] [0m(69094,35950,-1)[0m
+[0m[[0minfo[0m] [0m(69094,96668,-1)[0m
+[0m[[0minfo[0m] [0m(217504,966619,-1)[0m
+[0m[[0minfo[0m] [0m(562500,534474,-1)[0m
+[0m[[0minfo[0m] [0m(328527,159996,-1)[0m
+[0m[[0minfo[0m] [0m(504225,314824,-1)[0m
+[0m[[0minfo[0m] [0m(126531,57328,-1)[0m
+[0m[[0minfo[0m] [0m(1490570,21931,-1)[0m
+[0m[[0minfo[0m] [0m(56114,1625700,-1)[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/10[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLoading graph, with initial size 4742780[0m
+[0m[[0minfo[0m] [0mIterating through file[0m
+[0m[[0minfo[0m] [0m09:07:34.292 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 0[0m
+[0m[[0minfo[0m] [0m09:07:40.211 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 1000000[0m
+[0m[[0minfo[0m] [0m09:07:40.615 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 2000000[0m
+[0m[[0minfo[0m] [0m09:07:42.835 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 3000000[0m
+[0m[[0minfo[0m] [0m09:07:43.267 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 4000000[0m
+[0m[[0minfo[0m] [0m09:07:50.009 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 5000000[0m
+[0m[[0minfo[0m] [0m09:07:50.477 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 6000000[0m
+[0m[[0minfo[0m] [0m09:07:50.955 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 7000000[0m
+[0m[[0minfo[0m] [0m09:07:51.749 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 8000000[0m
+[0m[[0minfo[0m] [0m09:07:52.220 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 9000000[0m
+[0m[[0minfo[0m] [0m09:07:52.715 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 10000000[0m
+[0m[[0minfo[0m] [0m09:07:53.566 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 11000000[0m
+[0m[[0minfo[0m] [0m09:07:54.059 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 12000000[0m
+[0m[[0minfo[0m] [0m09:07:54.556 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 13000000[0m
+[0m[[0minfo[0m] [0m09:08:05.634 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 14000000[0m
+[0m[[0minfo[0m] [0m09:08:06.141 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 15000000[0m
+[0m[[0minfo[0m] [0m09:08:06.638 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 16000000[0m
+[0m[[0minfo[0m] [0m09:08:07.157 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 17000000[0m
+[0m[[0minfo[0m] [0m09:08:08.071 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 18000000[0m
+[0m[[0minfo[0m] [0m09:08:08.566 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 19000000[0m
+[0m[[0minfo[0m] [0m09:08:09.067 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 20000000[0m
+[0m[[0minfo[0m] [0m09:08:10.499 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 21000000[0m
+[0m[[0minfo[0m] [0m09:08:10.978 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 22000000[0m
+[0m[[0minfo[0m] [0m09:08:11.474 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 23000000[0m
+[0m[[0minfo[0m] [0m09:08:25.880 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 24000000[0m
+[0m[[0minfo[0m] [0m09:08:26.419 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 25000000[0m
+[0m[[0minfo[0m] [0m09:08:26.945 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 26000000[0m
+[0m[[0minfo[0m] [0m09:08:28.316 [ForkJoinPool-1-worker-5] INFO com.mattg.util.FileUtil - 27000000[0m
+[0m[[0minfo[0m] [0mDone reading graph file[0m
+[0m[[0minfo[0m] [0mBuilding the graph object[0m
+[0m[[0minfo[0m] [0mGraph object built[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[31merror[0m] [0mCouldn't open cc.mallet.util.MalletLogger resources/logging.properties file.[0m
+[0m[[31merror[0m] [0m Perhaps the 'resources' directories weren't copied into the 'class' directory.[0m
+[0m[[31merror[0m] [0m Continuing.[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 135[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 355[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:30 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.5380245083221 + |w|=0.8797523660971704) = 123.41777687441926[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 120.97282706243799 + |w|=1.0187432762652133) = 121.9915703387032[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.40754548950916 + |w|=1.6837443828234955) = 119.09128987233265[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 111.01545471500238 + |w|=2.601138438473718) = 113.61659315347609[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.30008983899135 + |w|=8.237399478935119) = 103.53748931792647[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 90.84608036573788 + |w|=8.59391810507842) = 99.43999847081629[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.25826628518371 + |w|=9.126419069403621) = 98.38468535458733[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.16644418879143 + |w|=9.994937453046857) = 97.16138164183829[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.69936088251399 + |w|=11.144415640244388) = 95.84377652275838[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.20097453107135 + |w|=11.853605444420696) = 95.05457997549205[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.8926526351172 + |w|=14.284505908678073) = 94.17715854379527[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.37373279396868 + |w|=14.100617959596704) = 94.47435075356539[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.96898393521558 + |w|=14.178036955000007) = 94.14702089021559[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.94661242572359 + |w|=14.123871078254627) = 94.07048350397821[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.97749282333524 + |w|=14.033958299537032) = 94.01145112287227[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.97896749027421 + |w|=13.888456493577943) = 93.86742398385216[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.22019286255765 + |w|=13.48265398532281) = 93.70284684788047[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.18414921516563 + |w|=13.460209578002734) = 93.64435879316837[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.14255427676967 + |w|=13.475788074520315) = 93.61834235128998[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.03134859829869 + |w|=13.573752615183597) = 93.60510121348229[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.88823373272844 + |w|=13.727434092040932) = 93.61566782476937[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.96071903888954 + |w|=13.636230930963686) = 93.59694996985323[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.60510121348229 newValue: 93.59694996985323[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:30 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.96071903888954 + |w|=13.636230930963686) = 93.59694996985323[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 115.1860165509452 + |w|=13.068235749483419) = 128.25425230042862[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.230925991361 + |w|=13.577913745185278) = 93.80883973654628[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.96264261096803 + |w|=13.630399212385843) = 93.59304182335387[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:30 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.59694996985323 newValue: 93.59304182335387[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:30 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 21 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/7[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 129[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 351[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:31 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 121.19935422600395 + |w|=0.8709945700690285) = 122.07034879607298[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 119.49638312098594 + |w|=1.0106367883425178) = 120.50701990932846[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 116.38023600708289 + |w|=1.6410183499038347) = 118.02125435698672[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 110.94053640567051 + |w|=2.5350145105367616) = 113.47555091620728[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 99.33489146452263 + |w|=7.229457784571785) = 106.56434924909442[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.27422403710928 + |w|=7.502570821835256) = 102.77679485894453[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 92.47534253034138 + |w|=8.30861760463479) = 100.78396013497617[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 88.71369225394047 + |w|=9.756227997476053) = 98.46992025141651[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.01404528099155 + |w|=11.5812695336408) = 96.59531481463236[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.5204502846486 + |w|=12.48646294961945) = 96.00691323426805[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.17491271109687 + |w|=13.862413501030254) = 95.03732621212711[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.52366609894698 + |w|=15.144592954029433) = 95.66825905297641[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.56682040474642 + |w|=14.462415783230908) = 95.02923618797733[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 95.03732621212711 newValue: 95.02923618797733[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:31 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.56682040474642 + |w|=14.462415783230908) = 95.02923618797733[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 110.79232122290097 + |w|=13.902863779302256) = 124.69518500220322[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.41839983192274 + |w|=14.406460582838044) = 94.82486041476079[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.4032023751468 + |w|=14.408154463471806) = 94.81135683861861[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.39502556656495 + |w|=14.397820059678365) = 94.79284562624332[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.40217706416774 + |w|=14.33704161001448) = 94.73921867418223[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.53217104412502 + |w|=14.109230821945578) = 94.6414018660706[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.72553816575112 + |w|=13.798523273335226) = 94.52406143908634[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.8576859202043 + |w|=13.600145430714866) = 94.45783135091916[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.69857943878131 + |w|=13.734055482634474) = 94.43263492141578[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.5305212806941 + |w|=13.870810186589662) = 94.40133146728377[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.26372514710347 + |w|=14.090045599487212) = 94.35377074659068[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.25708092641426 + |w|=14.117120065222675) = 94.37420099163694[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.23869500577062 + |w|=14.103582832354942) = 94.34227783812557[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.23543182520892 + |w|=14.098967033225383) = 94.3343988584343[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:31 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 94.34227783812557 newValue: 94.3343988584343[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:31 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 24 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/3[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 125[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:32 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 344[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 121.06998443859752 + |w|=0.8580309980528347) = 121.92801543665036[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 119.00790140652516 + |w|=1.027513838874455) = 120.03541524539962[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 114.64551929570828 + |w|=1.7469775818918567) = 116.39249687760014[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 108.02739482848473 + |w|=2.6239049554334715) = 110.6512997839182[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.75135693579632 + |w|=6.712437869535647) = 102.46379480533197[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 92.36901167395064 + |w|=7.021606947420653) = 99.39061862137129[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.85281788810859 + |w|=7.664354900590536) = 97.51717278869913[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.46066938733446 + |w|=8.568114023137259) = 96.02878341047172[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.48016138865428 + |w|=9.81058821001067) = 94.29074959866495[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.24301134141484 + |w|=10.615890416862277) = 93.85890175827711[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.95131533611301 + |w|=11.60679827582571) = 93.55811361193872[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.5337333391062 + |w|=11.822095946622737) = 93.35582928572894[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.15218140334312 + |w|=12.09594492565441) = 93.24812632899753[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.27415750070729 + |w|=11.943476984900109) = 93.21763448560739[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.2676461923737 + |w|=11.857364908763397) = 93.1250111011371[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.19028406306658 + |w|=11.841420881885535) = 93.03170494495212[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.02004538899145 + |w|=11.95928886742373) = 92.97933425641517[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.18164572787785 + |w|=11.801196799738513) = 92.98284252761636[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.10802463336894 + |w|=11.845698038028061) = 92.953722671397[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.0750707768287 + |w|=11.858867564115599) = 92.9339383409443[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.09217370254665 + |w|=11.837872483694857) = 92.9300461862415[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 92.9339383409443 newValue: 92.9300461862415[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:32 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.09217370254665 + |w|=11.837872483694857) = 92.9300461862415[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 88.89360044841595 + |w|=11.884317104513551) = 100.77791755292951[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.17401856128058 + |w|=11.836551464143671) = 93.01057002542424[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.09204999274391 + |w|=11.83774038173974) = 92.92979037448364[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:32 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 92.9300461862415 newValue: 92.92979037448364[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:32 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 21 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/4[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 140[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 356[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 124.04249559748375 + |w|=0.8822572108663775) = 124.92475280835012[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.43750082288946 + |w|=1.0085921166903271) = 123.44609293957978[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.59246363566142 + |w|=1.9343663196913976) = 119.52682995535281[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 110.20757065532236 + |w|=2.954144957150933) = 113.16171561247329[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.15561394656963 + |w|=8.057985604126873) = 103.2135995506965[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 91.26241634801967 + |w|=8.484094191368467) = 99.74651053938814[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.44571112608577 + |w|=9.113282283342524) = 98.5589934094283[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.48605744655106 + |w|=10.041197310759117) = 97.52725475731017[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.38107922565534 + |w|=10.970491669207773) = 96.35157089486312[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.08122396648223 + |w|=11.644382141016973) = 95.7256061074992[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.47165445499681 + |w|=13.23301418284665) = 94.70466863784345[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.9153321787433 + |w|=14.368441740720234) = 94.28377391946353[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.8648137678103 + |w|=14.361530933512016) = 94.22634470132232[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.89262076436472 + |w|=14.147492761939517) = 94.04011352630424[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.92313717035752 + |w|=14.01215175585219) = 93.93528892620971[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.9677131777032 + |w|=13.954593013126342) = 93.92230619082954[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.01396866788615 + |w|=13.901976570352357) = 93.9159452382385[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.92230619082954 newValue: 93.9159452382385[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.01396866788615 + |w|=13.901976570352357) = 93.9159452382385[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 94.05998027165312 + |w|=14.094918065103258) = 108.15489833675637[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.10454293168345 + |w|=13.92127071982745) = 94.0258136515109[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.01146740341505 + |w|=13.903905985299872) = 93.91537338871493[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.9159452382385 newValue: 93.91537338871493[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 18 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/6[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 140[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 352[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 123.91804277106563 + |w|=0.8901837652056493) = 124.80822653627128[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.34796057600543 + |w|=1.0395744374565494) = 123.38753501346199[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.1203066385188 + |w|=2.0139531139726814) = 119.13425975249147[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 108.66422055442625 + |w|=3.334516846873843) = 111.99873740130009[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 92.69401562679175 + |w|=9.021820434320757) = 101.71583606111251[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 88.53066832678462 + |w|=9.652089043386837) = 98.18275737017146[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.57518355230584 + |w|=10.410011974070184) = 96.98519552637603[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.74529407689755 + |w|=11.296039965426688) = 96.04133404232424[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 82.83650405912161 + |w|=11.976235316824152) = 94.81273937594577[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.4196032258396 + |w|=12.61825685654632) = 94.03786008238592[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.84271930015055 + |w|=15.31708368840444) = 93.15980298855499[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.53832131361173 + |w|=15.196613807520281) = 92.73493512113201[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.58848407542948 + |w|=15.062750748924753) = 92.65123482435423[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.70084153367011 + |w|=14.899149954457911) = 92.59999148812803[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.67293056806636 + |w|=14.777078623329942) = 92.4500091913963[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.63840355704193 + |w|=14.648474777883164) = 92.28687833492509[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.214922227852 + |w|=14.95912579023413) = 92.17404801808613[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.40600692510046 + |w|=14.81302230890655) = 92.21902923400701[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.27306922129264 + |w|=14.886074049570336) = 92.15914327086298[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.45589882863155 + |w|=14.687581692490442) = 92.14348052112199[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.2847440919081 + |w|=14.850949929205237) = 92.13569402111334[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 92.14348052112199 newValue: 92.13569402111334[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.2847440919081 + |w|=14.850949929205237) = 92.13569402111334[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.85128658871407 + |w|=15.328521287258399) = 111.17980787597247[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.44554794150362 + |w|=14.898707065010553) = 92.34425500651417[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 77.27920544261474 + |w|=14.855725642785773) = 92.13493108540051[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:48 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 92.13569402111334 newValue: 92.13493108540051[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:48 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 21 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/2[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 131[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 364[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 115.7011832730486 + |w|=0.8773290896934471) = 116.57851236274205[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 112.79389241439239 + |w|=1.0560578828157203) = 113.84995029720811[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 109.15709421710616 + |w|=1.659100455629404) = 110.81619467273556[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 102.8802626032109 + |w|=2.580447188839565) = 105.46070979205047[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 92.7388010881068 + |w|=7.154598805620488) = 99.89339989372729[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.1956697307197 + |w|=7.165580620018581) = 94.36125035073829[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.09115159424188 + |w|=7.692918310178638) = 92.78406990442052[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 81.32613515844515 + |w|=8.856760241544984) = 90.18289539999014[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 75.67471014821707 + |w|=11.294956442977098) = 86.96966659119417[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 74.00613484522498 + |w|=11.970435463356484) = 85.97657030858146[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.38579111021079 + |w|=12.916250397018068) = 85.30204150722886[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 73.8153509449743 + |w|=13.407684465917011) = 87.22303541089131[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.52305245044786 + |w|=13.111928449662559) = 85.63498090011042[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.29759251783595 + |w|=13.000441303800041) = 85.298033821636[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 85.30204150722886 newValue: 85.298033821636[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.29759251783595 + |w|=13.000441303800041) = 85.298033821636[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 101.23059658547642 + |w|=12.364283193884111) = 113.59487977936053[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.33929216396803 + |w|=12.935128672868561) = 85.27442083683658[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.26607959439765 + |w|=12.95186412586115) = 85.2179437202588[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 72.27258050368435 + |w|=12.938465031914124) = 85.21104553559847[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 85.2179437202588 newValue: 85.21104553559847[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 15 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/5[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 125.43691178111166 + |w|=0.87346866206644) = 126.3103804431781[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 136[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 347[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 124.11715830127477 + |w|=0.9889050229830496) = 125.10606332425782[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 119.68597159978434 + |w|=2.0238012929044586) = 121.70977289268879[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 113.8511139968153 + |w|=2.977165789552834) = 116.82827978636813[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 99.72099711725336 + |w|=8.304765312425003) = 108.02576242967837[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 96.98375068433268 + |w|=8.44477794645194) = 105.42852863078461[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 95.87367566570694 + |w|=8.75747184544514) = 104.63114751115208[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 94.35957440957695 + |w|=9.373354582653352) = 103.7329289922303[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 91.98606638353185 + |w|=10.393893215145507) = 102.37995959867736[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 90.40678021840802 + |w|=11.189859352295976) = 101.59663957070399[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.01162091003864 + |w|=13.398235100824197) = 100.40985601086284[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.33608108919486 + |w|=13.852767007101512) = 100.18884809629637[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.49928302087449 + |w|=13.642881045292256) = 100.14216406616674[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.5028097997856 + |w|=13.507547478034258) = 100.01035727781985[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.57602323905857 + |w|=13.36967613309342) = 99.94569937215199[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.55613248088856 + |w|=13.295257624096513) = 99.85139010498507[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.43588224253125 + |w|=13.34426193715683) = 99.78014417968808[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.28803079322694 + |w|=13.518887320838537) = 99.80691811406547[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.40000332975848 + |w|=13.35832192953615) = 99.75832525929462[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.33476703420408 + |w|=13.399315653379103) = 99.73408268758318[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.29719312427741 + |w|=13.419293130743094) = 99.71648625502051[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.18940902967307 + |w|=13.503968980712582) = 99.69337801038566[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.26147502343967 + |w|=13.427082143983663) = 99.68855716742334[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 99.69337801038566 newValue: 99.68855716742334[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.26147502343967 + |w|=13.427082143983663) = 99.68855716742334[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 104.08121280079918 + |w|=13.299994386154046) = 117.38120718695322[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.4965219311705 + |w|=13.40464094590075) = 99.90116287707126[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.26408099832055 + |w|=13.424838024175369) = 99.68891902249592[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 86.26152201199072 + |w|=13.426857732002828) = 99.68837974399355[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 99.68855716742334 newValue: 99.68837974399355[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 23 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/9[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 138[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 347[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 124.09449412716222 + |w|=0.8680639768319516) = 124.96255810399417[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.56547749818294 + |w|=0.9896625124174105) = 123.55514001060035[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.98437458677323 + |w|=1.92209047043877) = 119.906465057212[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 111.1879337473034 + |w|=3.0796183854934363) = 114.26755213279684[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 101.0416842133322 + |w|=7.045342261648112) = 108.08702647498032[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 97.79563320467652 + |w|=7.461912585915616) = 105.25754579059213[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 94.51524257590017 + |w|=8.431733507210314) = 102.94697608311048[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 91.47349889924062 + |w|=9.648587600799463) = 101.12208650004008[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.87580599683199 + |w|=10.055255443056566) = 99.93106143988855[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 88.41200074827373 + |w|=10.72132782832113) = 99.13332857659486[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.27460971446745 + |w|=11.432725129383927) = 98.70733484385137[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.77022403767076 + |w|=12.343287679001692) = 98.11351171667245[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.00288563255786 + |w|=13.769143804991026) = 97.7720294375489[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.64772706847265 + |w|=13.975359751783888) = 97.62308682025653[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.70519247887351 + |w|=13.869238441816815) = 97.57443092069033[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.05785835317967 + |w|=13.39698283926271) = 97.45484119244237[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.86175521851055 + |w|=13.688772530033205) = 97.55052774854376[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.90367400747314 + |w|=13.531619843017127) = 97.43529385049027[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.89812396759014 + |w|=13.499096272838916) = 97.39722024042905[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.75871074917866 + |w|=13.58911152954203) = 97.34782227872068[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.5411431357908 + |w|=13.763152750352258) = 97.30429588614307[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.57215541597135 + |w|=13.696252321596054) = 97.2684077375674[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.66624040624214 + |w|=13.578377997550556) = 97.2446184037927[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.77044178660414 + |w|=13.484866148743661) = 97.2553079353478[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.7298409879735 + |w|=13.509739509112931) = 97.23958049708644[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 97.2446184037927 newValue: 97.23958049708644[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.7298409879735 + |w|=13.509739509112931) = 97.23958049708644[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 99.14260832378807 + |w|=14.083780979812785) = 113.22638930360085[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.83312791704085 + |w|=13.567143656182918) = 97.40027157322378[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.721936912254 + |w|=13.515479923819928) = 97.23741683607392[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:49 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 97.23958049708644 newValue: 97.23741683607392[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:49 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 24 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/8[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 139[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 352[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 124.1131051923091 + |w|=0.8753590862985796) = 124.98846427860768[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.57813893159798 + |w|=0.9977759165128643) = 123.57591484811084[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.73309946984277 + |w|=1.9721709785402597) = 119.70527044838303[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 110.67239829511317 + |w|=3.19626806367025) = 113.86866635878341[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 100.91673621020512 + |w|=7.022618953121796) = 107.93935516332691[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 97.57654882534734 + |w|=7.476414249080836) = 105.05296307442818[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 94.11994854691852 + |w|=8.56286229296936) = 102.68281083988788[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 91.21197357299326 + |w|=9.857788454074852) = 101.06976202706811[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.06526607388946 + |w|=10.788830103216341) = 99.8540961771058[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.25392066326893 + |w|=11.63907995990287) = 98.8930006231718[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.2460443617164 + |w|=12.777258532111887) = 98.02330289382829[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.54741722462713 + |w|=13.175962312707945) = 97.72337953733506[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.14247611901965 + |w|=15.49263085575956) = 102.6351069747792[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.3439186387111 + |w|=14.334296584233751) = 98.67821522294486[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.02212097102705 + |w|=13.75512944847085) = 97.7772504194979[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.17267841218609 + |w|=13.465545880589396) = 97.63822429277548[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.96635598141401 + |w|=13.608404562936766) = 97.57476054435078[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.8431577373499 + |w|=13.705730318199727) = 97.54888805554963[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.69899558308424 + |w|=13.811673396536648) = 97.51066897962089[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.73241328237279 + |w|=13.730750038624567) = 97.46316332099735[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.89066871133461 + |w|=13.541825080820617) = 97.43249379215523[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.03565973607654 + |w|=13.380835462651985) = 97.41649519872853[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.16173571124342 + |w|=13.242727418181651) = 97.40446312942507[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.11727641951188 + |w|=13.281370008870658) = 97.39864642838253[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 97.40446312942507 newValue: 97.39864642838253[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.11727641951188 + |w|=13.281370008870658) = 97.39864642838253[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.90865465440396 + |w|=14.31322627250485) = 102.22188092690881[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.04936564265701 + |w|=13.38450576462401) = 97.43387140728102[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 84.10539146421213 + |w|=13.291683584445995) = 97.39707504865812[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 97.39864642838253 newValue: 97.39707504865812[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 22 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mRunning PRA for relation ../data/dbpedia/splits/spouse/easy/1[0m
+[0m[[0minfo[0m] [0mfeature type being used is subgraphs[0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 270 instances[0m
+[0m[[0minfo[0m] [0mLearning feature weights[0m
+[0m[[0minfo[0m] [0mPrepping training data[0m
+[0m[[0minfo[0m] [0mCreating alphabet[0m
+[0m[[0minfo[0m] [0mSeparating into positive, negative, unseen[0m
+[0m[[0minfo[0m] [0mConverting positive matrix to MALLET instances and adding to the dataset[0m
+[0m[[0minfo[0m] [0mAdding negative evidence[0m
+[0m[[0minfo[0m] [0mNumber of positive features: 137[0m
+[0m[[0minfo[0m] [0mNumber of negative features: 342[0m
+[0m[[0minfo[0m] [0mCreating the MalletLogisticRegression object[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[0minfo[0m] [0mSetting L2 weight to 0.01[0m
+[0m[[0minfo[0m] [0mSetting L1 weight to 0.5[0m
+[0m[[0minfo[0m] [0mTraining the classifier[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 187.1497387511856 + |w|=0.0) = 187.1497387511856[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 123.94038814227424 + |w|=0.8754277607651118) = 124.81581590303935[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 122.40992357810723 + |w|=1.0147872073477497) = 123.42471078545498[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 117.77987395325928 + |w|=1.9152799070258986) = 119.69515386028519[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 110.54352526159879 + |w|=3.027499772165642) = 113.57102503376443[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 93.23050534505057 + |w|=9.08567981321761) = 102.31618515826818[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 89.15625714376202 + |w|=9.686636647105328) = 98.84289379086735[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 87.56131217277984 + |w|=10.385611113927702) = 97.94692328670754[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 85.8614481167908 + |w|=11.231477029233643) = 97.09292514602444[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 83.61681621497297 + |w|=12.061688722764957) = 95.67850493773793[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 82.49120429762053 + |w|=12.62656103256982) = 95.11776533019035[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.08600989719407 + |w|=14.243011876680121) = 94.32902177387419[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 80.33243136657973 + |w|=14.459282180417748) = 94.79171354699747[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.94584867976141 + |w|=14.351147028548933) = 94.29699570831035[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.67094610774176 + |w|=14.478519111705738) = 94.14946521944749[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.51526651567143 + |w|=14.587533793726813) = 94.10280030939825[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.5658648130216 + |w|=14.482396832854121) = 94.04826164587573[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.86580582150866 + |w|=14.049218946430837) = 93.9150247679395[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.86418320693879 + |w|=13.982760920725825) = 93.84694412766461[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.65828206755994 + |w|=14.165158697074087) = 93.82344076463403[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.64851915780666 + |w|=14.160991280989649) = 93.80951043879631[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.70613132237443 + |w|=14.096601928060359) = 93.80273325043478[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.80951043879631 newValue: 93.80273325043478[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: Using L1 regularization (l1wt:0.5,l2wt:0.01)[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.70613132237443 + |w|=14.096601928060359) = 93.80273325043478[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 100.33770434368843 + |w|=13.599940116953544) = 113.93764446064198[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.89364625894756 + |w|=14.040377383725357) = 93.93402364267291[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS evalL1[0m
+[0m[[31merror[0m] [0mINFO: getValue() (MalletLogisticRegression$LogRegOptimizable.getValue() = 79.7101402123586 + |w|=14.090979473626863) = 93.80111968598546[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: Exiting OWL-BFGS on termination #1:[0m
+[0m[[31merror[0m] [0mApr 20, 2018 9:08:50 AM cc.mallet.optimize.OrthantWiseLimitedMemoryBFGS optimize[0m
+[0m[[31merror[0m] [0mINFO: value difference below tolerance (oldValue: 93.80273325043478 newValue: 93.80111968598546[0m
+[0m[[31merror[0m] [0m18/04/20 09:08:50 INFO models.MalletLogisticRegression: predicate not given: L-BFGS Converged after 21 iterations![0m
+[0m[[0minfo[0m] [0mCreating feature matrix from 30 instances[0m
+[0m[[0minfo[0m] [0mClassifying instances[0m
+[0m[[0minfo[0m] [0mTotal time: 1 minutes and 29 seconds[0m

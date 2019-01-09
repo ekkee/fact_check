@@ -1,0 +1,5 @@
+[console_scripts]
+importnt = knowledge_linker.inout.importnt:main
+klinker = knowledge_linker.frontend.cmdline:main
+ontoparse = knowledge_linker.inout.ontoparse:main
+

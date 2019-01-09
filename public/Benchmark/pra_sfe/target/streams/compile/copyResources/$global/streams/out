@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/buckle/public/Benchmark/pra_sfe/src/main/resources/freebase_mediators.tsv,/home/ubuntu/buckle/public/Benchmark/pra_sfe/target/scala-2.11/classes/freebase_mediators.tsv)[0m
+[0m[[0mdebug[0m] [0m	(/home/ubuntu/buckle/public/Benchmark/pra_sfe/src/main/resources/freebase_mediator_relations.tsv,/home/ubuntu/buckle/public/Benchmark/pra_sfe/target/scala-2.11/classes/freebase_mediator_relations.tsv)[0m

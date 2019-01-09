@@ -1,0 +1,18 @@
+args settings:
+----------
+method TransE
+thread number 6
+dimension 100
+dimension2 (only in transR) 50
+orthogonal value (only in transH) 0.1
+learning rate 0.01
+sampling corrupt triple method unif
+margin 1
+epoch number 1500
+batch number 1
+norm L1
+initial from file No
+use tmp value in batches No
+data path ../data/dbpedia/
+----------
+Number of training example: 27313477
